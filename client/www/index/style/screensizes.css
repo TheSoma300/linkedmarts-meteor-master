@@ -1,0 +1,289 @@
+@media only screen and  (min-width: 1351px) {
+    .header-main .categories .cat-new-line{
+    	display: none;
+    }
+
+    .cheers-col .daily-cheers .daily-cheers-actions-bar a img{
+		
+		
+		margin: 0 12px;
+		
+	}
+
+	.cheers-col .hot-cheers .meta .meta-in-nl, .cheers-col .recent-cheers .meta .meta-in-nl{
+		display: none;
+	}
+	.post-box .post-wrap .post-content{
+  		width: 600px;
+	}
+
+
+	.post-title-status{
+		
+		width: 400px;
+	}
+	.post-box .post-wrap .post-content .post-description{
+		width: 300px;
+	}
+	.post-box .post-wrap .post-content .post-description .prod-name .name{
+  		padding-right: 10px;
+  		margin-right: 0;
+  		display: inline-block;
+  		width: 150px;
+	}
+	.post-box .post-wrap .post-content .post-text-box .two-line{
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1350px) and (min-width: 1140px) {
+    /*
+		HEADER CHANGES
+    */
+    .header-main .categories ul{
+    	width: 700px;
+    	margin: auto;
+    	height: 140px;
+    }
+    .header-main .categories ul li{
+    	margin:0;
+    	width: 150px;
+    	height: 40px;
+    	margin-right: 5px;
+    	margin-left: 5px;
+	}
+ 	/*
+		CHEERS COL CHANGES
+    */
+
+
+
+	.cheers-col .daily-cheers .daily-cheers-actions-bar a img{
+		margin: 0 3px;
+			}
+	/*
+	POST COL CHANGES
+	*/
+
+	.post-box .post-wrap .post-content{
+  		width: 550px;
+	}
+
+	.post-box .post-wrap .post-content .post-text-box input{
+		width: 280px;
+	}
+
+	.post-box .post-wrap .post-content .post-description{
+		width: 250px;
+	}
+	.post-box .post-wrap .post-content .post-description .prod-name .name{
+  		padding-right: 10px;
+  		margin-right: 0;
+  		display: inline-block;
+  		vertical-align: middle;
+  		width: 100px;
+	}
+	
+	.post-box .post-wrap .post-content .post-actions{
+  		width: 270px;
+	}
+	.post-box .post-wrap .post-content .post-actions a img{
+	  margin-right: 5px;
+	  width: 30px;
+	}
+
+
+	/*
+	POST COL CHANGES
+	*/
+	.friend-col .friends-cheers{
+		padding-bottom: 30px;
+	}
+	.friend-col .friends-cheers .item{
+		
+		height: 80px;
+		margin-bottom: 10px;
+	}
+
+	.post-box .post-wrap .post-user{
+		width: 70px;
+		
+	}
+	.post-box .post-wrap .post-user img{
+		margin-left: 5px;
+	}
+
+
+
+	.post-box .post-wrap .post-content .post-text-box .two-line{
+		display: none;
+	}
+
+}
+
+
+@media only screen and (max-width: 1139px) and (min-width: 1024px) {
+    /*
+		HEADER CHANGES
+    */
+
+    .header-main .search-bar .search-box input{
+    	width: 170%;
+    }
+
+
+    .header-main .categories ul{
+    	width: 700px;
+    	margin: auto;
+    	height: 140px;
+    }
+    .header-main .categories ul li{
+    	margin:0;
+    	width: 150px;
+    	height: 40px;
+    	margin-right: 5px;
+    	margin-left: 5px;
+	}
+ 	/*
+		CHEERS COL CHANGES
+    */
+
+
+
+	.cheers-col .daily-cheers .daily-cheers-actions-bar a img{
+		margin: 0 3px;
+			}
+	/*
+	POST COL CHANGES
+	*/
+
+	.post-box .post-wrap .post-content .add-pic{
+  width: 150px;
+  padding: 60px 0 70px 0;
+  font-size: 100px;
+}
+	.post-box .post-wrap .post-content .post-title{
+		height: 30px;
+	}
+	.post-box .post-wrap .post-content .post-title .post-title-status{
+		
+		width: 320px;
+
+	}
+	.post-box .post-wrap .post-content{
+  		width: 490px;
+	}
+	.post-box .post-wrap .post-content .post-text-box .two-line{
+		resize: none;
+		padding: 55px 0;
+  		text-align: justify;
+  		border: 0;
+  		margin-left: 10px;
+  		margin-right: 10px;
+  		font-size: 18px;
+  		font-weight: bold;
+	}
+
+	.post-box .post-wrap .post-content .post-text-box .two-line:focus{
+  		outline: none;
+	}
+	.post-box .post-wrap .post-content .post-text-box .one-line{
+		display: none;
+	}
+
+
+	.post-box .post-wrap .post-content .tags{
+		padding-left: 0;
+	}
+	.post-box .post-wrap .post-content .post-description{
+		width: 200px;
+	}
+	.post-box .post-wrap .post-content .post-description .prod-name .name{
+  		padding-right: 10px;
+  		margin-right: 0;
+  		display: inline-block;
+  		vertical-align: text-top;
+  		width: 100px;
+  		
+	}
+	.post-box .post-wrap .post-content .post-description .prod-name .meta .meta-box{
+	  display: inline-block;
+
+	  height: 60px;
+	  text-align: center;
+	  vertical-align: text-top;
+	}
+	.post-box .post-wrap .post-content .post-description .prod-name .meta .meta-box .meta-num{
+	  display: inline-block;
+	  width: 50px;
+
+	}
+	.post-box .post-wrap .post-content .post-description .prod-name .meta .meta-box .meta-break{
+		display: block;
+	}
+
+	.post-box .post-wrap .post-content .cheers-now{
+		width: 230px;
+	}
+	.post-box .post-wrap .post-content .post-actions{
+  		width: 230px;
+	}
+	.post-box .post-wrap .post-content .post-actions a{
+		font-size: 16px;
+	}
+	.post-box .post-wrap .post-content .post-actions a img{
+	  margin-right: 0px;
+	  width: 30px;
+	}
+
+
+
+	.post-box .post-wrap .post-content .post-image{
+		width: 200px;
+	}
+
+	/*
+	Friend COL CHANGES
+	*/
+	.friend-col .friends-cheers{
+		padding-bottom: 30px;
+	}
+	.friend-col .friends-cheers .item{
+		margin-bottom: 20px;
+	}
+
+	.post-box .post-wrap .post-user{
+		width: 70px;
+		
+	}
+	.post-box .post-wrap .post-user img{
+		margin-left: 5px;
+	}
+
+
+
+	
+	.upper-header .user-header .right-options{
+		width: 400px;
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 1024px) {
+body{
+	
+	}}
